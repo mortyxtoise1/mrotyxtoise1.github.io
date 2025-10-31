@@ -1,0 +1,49 @@
+#My_Title{
+    color: rgb(7, 181, 255);
+    background-color: rgb(131, 140, 224);
+}
+#no {
+    background-color: #33ffff;
+  }
+  #gog {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 5px groove #33ccff;
+  }
+  #delvan {
+    background-color: #33ffff;
+  }
+  #mc_set {
+    border: 5px groove #33ccff;
+  }
+  #bell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #bell img {
+    width: 190px;
+    height: 190px;
+    margin: 20px;
+  }
+  #About_Setting {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+        border: 5px groove #33ffff;
+        border-radius: 20px;
+  }
+  #bob {
+    border: 5px groove #33ffff;
+            border-radius: 20px;
+  }
+  body {
+    background-image: url("imagessssssssssssssssssssssssssssssssssss/images.jpeg");
+    background-size: cover;
+  }
+#About_Setting img{
+     border-radius: 20px;
+ }
